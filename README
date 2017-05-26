@@ -1,0 +1,8 @@
+Ime i prezime: Slavko Djuricin 
+Smer: Informatika
+Broj indeksa: 310/2014
+Mail: slavkodjuricin@gmail.com
+
+Programi se pokrecu u ocaml interpretaroru (komanda u terminalu ocaml). Nakon pokretanja interpretatora za ucitavanje odredjenog fajla koristi se komanda #use"filename.ml";; .
+
+
